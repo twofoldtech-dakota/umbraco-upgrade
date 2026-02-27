@@ -1,0 +1,17 @@
+{
+  "name": "twofoldtech-dakota",
+  "owner": {
+    "name": "Twofold Technology"
+  },
+  "metadata": {
+    "description": "Plugin ecosystem for CMS migrations and upgrades"
+  },
+  "plugins": [
+    {
+      "name": "umbraco-upgrade",
+      "source": "./",
+      "description": "Audit, plan, and task-decompose Umbraco 15→17 (LTS) upgrades",
+      "version": "1.0.0"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "umbraco-upgrade",
+  "description": "Audit, plan, and task-decompose Umbraco 15→17 (LTS) upgrades. Three skills: audit scans your codebase, architect generates a migration plan, tasker creates dev-ready work items.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Twofold Technology"
+  },
+  "repository": "https://github.com/twofoldtech-dakota/umbraco-upgrade",
+  "license": "MIT",
+  "keywords": ["umbraco", "upgrade", "migration", "dotnet", "cms"]
+}
