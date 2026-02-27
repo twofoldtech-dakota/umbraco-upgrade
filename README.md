@@ -9,12 +9,13 @@ A Claude Code plugin for planning and executing Umbraco 15 → 17 (LTS) upgrades
 
 ### From Marketplace
 
-```bash
 # Add the marketplace
+```bash
 /plugin marketplace add twofoldtech-dakota/umbraco-upgrade
 ```
-```bash
+
 # Install the plugin
+```bash
 /plugin install umbraco-upgrade@twofoldtech-dakota-plugin-architect
 ```
 
